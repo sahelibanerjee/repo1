@@ -1,5 +1,7 @@
 first line of code
 second line of code
-<<<<<<< HEAD
+
 change on master
 
+third line of code
+for f2 
